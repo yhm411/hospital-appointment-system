@@ -133,14 +133,17 @@ MedicalApplication.java
 
 ## 项目截图
 
-（可以在这里放系统截图）
+### 登录页面
+![登录页面](img/login.png)
 
-```
-img/login.png
-img/appointment.png
-img/admin.png
-```
+### 医生页面
+![医生页面](img/doctor.png)
 
+### 用户页面
+![用户页面](img/user.png)
+
+### 后台管理
+![后台管理](img/admin.png)
 ---
 
 ## 作者
